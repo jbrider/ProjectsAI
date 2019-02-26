@@ -4,3 +4,4 @@
 + Code reviews
 
 ![gears](../blob/master/images/gears.jpg?raw=true)
+![gears](https://github.com/jbrider/ProjectsAI/blob/master/gears.jpg)
