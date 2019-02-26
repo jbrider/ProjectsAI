@@ -3,4 +3,4 @@
 + Science Reviews
 + Code reviews
 
-![gears](gears.jog?raw=true)
+![gears](/gears.jog?raw=true)
