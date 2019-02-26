@@ -3,4 +3,4 @@
 + Science Reviews
 + Code reviews
 
-![gears](images/gears.jog?raw=true)
+![gears](blob/master/images/gears.jpg?raw=true)
