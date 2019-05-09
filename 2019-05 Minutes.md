@@ -49,13 +49,11 @@
   
   Agreement on APSIM Week Dates
   
-## 4. Web Site/communications
-
-## 5. Website/Communications	
+## 4. Website/Communications	
   
   Updates; new articles<br>Discussion on RG Trial
   
-## 6. Other Business
+## 5. Other Business
 
   Update from Brown, Hamish (Plant and Food) on the "Crop Model word description for APSIM"
   [acknowledgement guidelines](https://github.com/APSIMInitiative/ApsimX/issues/3813#issuecomment-488866569)
